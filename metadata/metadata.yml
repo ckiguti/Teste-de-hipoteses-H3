@@ -1,3 +1,10 @@
 metadata_version: 1
-name: ANCOVA for `pos.score`~`pre.score`+`scenario`
-description: (@author = Geiser C. Challco, @email = geiser@alumni.usp.br). Shiny-Statistic is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+name: 'Do Player Types Influence Optimal Learning Experience in Gamification? An Experimental Study : ANCOVA for `pos.score`~`pre.score`+`scenario`'
+description: '(@author = Geiser C. Challco, @email = geiser@alumni.usp.br). Shiny-Statistic is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.'
+authors:
+- name: Geiser Chalco
+  affiliations:
+  - name: USP
+corresponding_contributor:
+  name: Geiser Chalco
+  email: geiser@alumni.usp.br
