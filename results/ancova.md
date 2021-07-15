@@ -117,7 +117,7 @@ ggscatter(sdat[["pos.score"]], x=covar, y="pos.score", facet.by=between, short.p
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](/home/rstudio/report/ancova/6c96a7f0184c1825/results/ancova_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](ancova_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
 
 ### Assumption: Homogeneity of data distribution
 
@@ -141,7 +141,7 @@ Descriptive statistics of data with normal distribution
 | pos.score.1 | gamified     | pos.score |  14 | 8.786 |      9 |   7 |  10 | 0.893 | 0.239 | 0.515 | 1.00 |
 | pos.score.2 | non.gamified | pos.score |  14 | 6.857 |      7 |   5 |   8 | 0.949 | 0.254 | 0.548 | 1.75 |
 
-![](/home/rstudio/report/ancova/6c96a7f0184c1825/results/ancova_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
+![](ancova_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
 
 ## Computation of ANCOVA test and Pairwise Comparison
 
@@ -178,7 +178,7 @@ plots <- oneWayAncovaPlots(sdat[["pos.score"]], "pos.score", between
 plots[["scenario"]]
 ```
 
-![](/home/rstudio/report/ancova/6c96a7f0184c1825/results/ancova_files/figure-gfm/unnamed-chunk-25-1.png)<!-- -->
+![](ancova_files/figure-gfm/unnamed-chunk-25-1.png)<!-- -->
 
 ### Textual Report
 
