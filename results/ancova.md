@@ -47,7 +47,7 @@ Geiser C. Challco <geiser@alumni.usp.br>
 | non.gamified | pos.score |  16 | 7.000 |      7 |   5 |   8 | 0.966 | 0.242 | 0.515 |   2 | YES      |   -0.416 |   -1.135 |
 | NA           | pos.score |  32 | 7.969 |      8 |   5 |  10 | 1.356 | 0.240 | 0.489 |   2 | YES      |   -0.171 |   -0.826 |
 
-![](/home/rstudio/report/ancova/6c96a7f0184c1825/results/ancova_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](ancova_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 ## Checking of Assumptions
 
