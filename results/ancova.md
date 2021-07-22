@@ -160,10 +160,10 @@ Descriptive statistics of data with normal distribution
 
 ### Descriptive Statistic of Estimated Marginal Means
 
-| var       | scenario     |   n | emmean |  mean | conf.low | conf.high |    sd | sd.emms | se.emms |
-|:----------|:-------------|----:|-------:|------:|---------:|----------:|------:|--------:|--------:|
-| pos.score | gamified     |  14 |  8.668 | 8.786 |    8.336 |     9.001 | 0.893 |   0.604 |   0.161 |
-| pos.score | non.gamified |  14 |  6.974 | 6.857 |    6.642 |     7.307 | 0.949 |   0.604 |   0.161 |
+| var       | scenario     | pre.score | emmean | se.emms |  df | conf.low | conf.high | method       |   n |  mean | median | min | max |    sd | se.ds |    ci |  iqr | n.pre.score | mean.pre.score | median.pre.score | min.pre.score | max.pre.score | sd.pre.score | se.pre.score | ci.pre.score | iqr.pre.score | sd.emms |
+|:----------|:-------------|----------:|-------:|--------:|----:|---------:|----------:|:-------------|----:|------:|-------:|----:|----:|------:|------:|------:|-----:|------------:|---------------:|-----------------:|--------------:|--------------:|-------------:|-------------:|-------------:|--------------:|--------:|
+| pos.score | gamified     |      6.75 |  8.668 |   0.161 |  25 |    8.336 |     9.001 | Emmeans test |  14 | 8.786 |      9 |   7 |  10 | 0.893 | 0.239 | 0.515 | 1.00 |          14 |          6.929 |                7 |             5 |             8 |        0.997 |        0.267 |        0.576 |             2 |   0.604 |
+| pos.score | non.gamified |      6.75 |  6.974 |   0.161 |  25 |    6.642 |     7.307 | Emmeans test |  14 | 6.857 |      7 |   5 |   8 | 0.949 | 0.254 | 0.548 | 1.75 |          14 |          6.571 |                7 |             4 |             8 |        1.158 |        0.309 |        0.669 |             1 |   0.604 |
 
 ### Ancova plots for the dependent variable “pos.score”
 
